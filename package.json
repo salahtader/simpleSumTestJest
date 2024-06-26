@@ -1,0 +1,16 @@
+{
+  "name": "simplesumtestjest",
+  "version": "1.0.0",
+  "module": "commonjs",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
