@@ -7,7 +7,7 @@ describe('block opération arithmetique', () => {
     expect(result).toBe(3)
  })
  test('should do basic multiplication', () => { 
-    const result = sum(2,2)
+    const result = multi(2,2)
     expect(result).toBe(4)
  })
 })
